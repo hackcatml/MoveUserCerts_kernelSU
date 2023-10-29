@@ -1,0 +1,6 @@
+id=moveusercerts-kernelsu
+name=Move User Certs KernelSU
+version=v0.0.1
+versionCode=1
+author=hackcatml
+description=Move user certs to the system.
